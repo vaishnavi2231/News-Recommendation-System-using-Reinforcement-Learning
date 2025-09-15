@@ -23,6 +23,6 @@ Results :
 
 
 Output : 
-<img width="473" height="91" alt="image" src="https://github.com/vaishnavi2231/News-Recommendation-System-using-Reinforcement-Learning/blob/main/output/web_output.png"/>
+<img width="473" height="200" alt="image" src="https://github.com/vaishnavi2231/News-Recommendation-System-using-Reinforcement-Learning/blob/main/output/web_output.png"/>
 
 
