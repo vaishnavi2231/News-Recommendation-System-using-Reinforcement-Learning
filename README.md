@@ -19,10 +19,12 @@ Deep Q-Network (DQN): Learns Q-values Q(s,a) value function approximation using 
 Advantage Actor-Critic (A2C): Separate policy (actor) function and value estimation (critic), can learn the advantage function to lower variance, maximum learning stability and efficiency.
 
 Results : 
+
 <img width="473" height="91" alt="image" src="https://github.com/user-attachments/assets/16dba99b-d198-4022-a71b-9ae24d108004" />
 
 
 Output : 
-<img width="473" height="200" alt="image" src="https://github.com/vaishnavi2231/News-Recommendation-System-using-Reinforcement-Learning/blob/main/output/web_output.png"/>
+
+<img width="473" height="300" alt="image" src="https://github.com/vaishnavi2231/News-Recommendation-System-using-Reinforcement-Learning/blob/main/output/web_output.png"/>
 
 
